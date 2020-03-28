@@ -1,0 +1,7 @@
+name: ClanManager
+version: @version@
+main: tk.tropicaldan.clanmanager.ClanManager
+api-version: 1.13
+prefix: CM
+authors: [TropicalShadow]
+description: This is to sort out your teams
